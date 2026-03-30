@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms and Conditions - [COMPANY NAME]</title>
+    <title>Terms and Conditions - Tundra Painting</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 0 20px; background-color: #f4f4f4; }
         .container { background: white; padding: 40px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
@@ -17,11 +17,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>[COMPANY NAME] - Terms and Conditions</h1>
+        <h1>Tundra Painting - Terms and Conditions</h1>
         <p><strong>Effective Date:</strong> January 1, 2024</p>
 
         <h2>1. Agreement to Terms</h2>
-        <p>By accessing or using services provided by <strong>[COMPANY NAME]</strong> ("we," "us," or "our"), you agree to be bound by these Terms and Conditions. You must be at least 18 years of age to use our services or opt into our communication programs.</p>
+        <p>By accessing or using services provided by <strong>Tundra Painting</strong> ("we," "us," or "our"), you agree to be bound by these Terms and Conditions. You must be at least 18 years of age to use our services or opt into our communication programs.</p>
 
         <h2>2. Services, Estimates, and Payments</h2>
         <ul>
@@ -33,7 +33,7 @@
 
         <div class="box">
             <h2>3. SMS Program & Messaging Use Cases</h2>
-            <p>By providing your contact information and opting in, you consent to receive SMS communications from <strong>[COMPANY NAME]</strong>.</p>
+            <p>By providing your contact information and opting in, you consent to receive SMS communications from <strong>Tundra Painting</strong>.</p>
             <ul>
                 <li><strong>Description & Use Case:</strong> Messages include appointment notifications, scheduling reminders, project updates, and general customer service-related topics.</li>
                 <li><strong>Message Frequency:</strong> Message frequency varies based on your interactions with our business and the status of your project.</li>
@@ -64,7 +64,7 @@
         <p>These Terms are governed by the laws of the jurisdiction where services are provided. We reserve the right to update these Terms at any time, and continued use of our services constitutes acceptance of the revised terms.</p>
 
         <footer>
-            © 2024 [COMPANY NAME]. All rights reserved.
+            © 2024 Tundra Painting. All rights reserved.
         </footer>
     </div>
 </body>
