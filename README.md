@@ -1,1 +1,1 @@
-# Legal-Grandview-Painting
+# Legal
